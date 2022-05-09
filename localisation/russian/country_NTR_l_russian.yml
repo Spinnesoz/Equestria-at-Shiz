@@ -1,0 +1,28 @@
+﻿l_russian:
+
+NTR_democratic:0 "Гиперборея"
+NTR_communism:0 "Свободные Северные Коммуны"
+NTR_neutrality:0 "Гиперборея"
+NTR_fascism:0 "Святая Гиперборея"
+NTR_democratic_DEF:0 "Гиперборея"
+NTR_communism_DEF:0 "Свободные Северные Коммуны"
+NTR_neutrality_DEF:0 "Гиперборея"
+NTR_fascism_DEF:0 "Святая Гиперборея"
+NTR_democratic_ADJ:0 "Северн"
+NTR_communism_ADJ:0 "Северн"
+NTR_neutrality_ADJ:0 "Северн"
+NTR_fascism_ADJ:0 "Северн"
+NTR_SRS_united:0 "Союз Свободных Северных Коммун"
+NTR_SRS_united_DEF:0 "Союз Свободных Северных Коммун"
+NTR_SRS_united_ADJ:0 "Свободно-Северн"
+
+ ### LEADERS ###
+ NTR_chief_darius:0 "Вождь Дариус"
+ NTR_stormbringer:0 "Стормбрингер"
+ NTR_princess_fiana_ii:0 "Генерал-губернатор с планеты Нибиру Фиана II"
+ NTR_gray_fox:0 "Грей Фокс"
+
+ ### GENERALS ###
+ NTR_milana_greyheart:0 "Милана Грейхарт"
+ NTR_gordon_the_archer:0 "Гордон Лучник"
+ NTR_federic_birch:0 "Федерик Бёрч"

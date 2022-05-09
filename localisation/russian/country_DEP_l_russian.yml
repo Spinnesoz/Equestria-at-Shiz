@@ -1,0 +1,43 @@
+﻿l_russian:
+ DEP_neutrality:0 "Социалистическое Королевство Дехорния"
+ DEP_fascism:0 "Империя без Хорни"
+ DEP_communism:0 "Древесная Коммуна"
+ DEP_democratic:0 "Королевство Дехорния"
+ DEP_neutrality_DEF:0 "Дехорния"
+ DEP_fascism_DEF:0 "Империя без Хорни"
+ DEP_communism_DEF:0 "Древесная Коммуна"
+ DEP_democratic_DEF:0 "Королевство Дехорния"
+ DEP_fascism_ADJ:0 "Дехорнск"
+ DEP_democratic_ADJ:0 "Дехорнск"
+ DEP_neutrality_ADJ:0 "Дехорнск"
+ DEP_communism_ADJ:0 "Дехорнск"
+ 
+ DEP_neutrality_party:0 "МКПД"
+ DEP_neutrality_party_long:0 "Монархо-Коммунистическая Партия Депонии"
+ DEP_communism_party:0 "РКПД"
+ DEP_communism_party_long:0 "Ревизионистко-Коммунистическая Партия Депонии"
+ DEP_democratic_party:0 "ПЖиВ"
+ DEP_democratic_party_long:0 "Партия жуликов и воров"
+ DEP_fascism_party:0 "БК"
+ DEP_fascism_party_long:0 "Беларский Конгресс"
+
+ #### LEADERS ####
+ DEP_king_grimhoof:0 "Король рабочих и крестьян Гримхуф"
+ DEP_pearly_dough:0 "Пирли Доу"
+ DEP_moonlight_dust:0 "Мунлайт Даст"
+ DEP_caramel_punch:0 "Карамель Панч"
+
+ #### GENERALS ####
+ DEP_colt_shadow:0 "Кольт Шэдоу"
+ DEP_violet_light:0 "Вайолет Лайт"
+
+ #### IDEAS ####
+ DEP_old_country:0 "Страна без Хорни"
+ DEP_old_country_desc:0 "В этой стране запрещено быть хорни."
+
+ #### Tooltips ####
+
+ DEP_Advisors_rounds_1_tt:0 "Need At Least 1 Advisor Rounds finished"
+ DEP_Advisors_rounds_2_tt:0 "Need At Least 2 Advisor Rounds finished"
+ DEP_Advisors_rounds_3_tt:0 "Need At Least 3 Advisor Rounds finished"
+ DEP_Advisors_rounds_4_tt:0 "Need All Advisor Rounds finished"
